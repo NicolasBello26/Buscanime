@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-
+'hola mund'
 void main() {
   runApp(MyApp());
 }
@@ -12,6 +12,7 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(
         primarySwatch: Colors.blue,
         visualDensity: VisualDensity.adaptivePlatformDensity,
+        
       ),
       home: MyHomePage(title: 'Flutter Demo Home Page'),
     );
